@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project was created as part of a JavaScript course. The main focus of this project is OOPand Geolocation. 
+This project was created as part of a JavaScript course. The main focus of this project is OOP and Geolocation. 
 The HTML and CSS files used in this project were provided as part of the course materials and are not my original work.
 
 ### Credits
